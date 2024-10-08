@@ -29,14 +29,7 @@ Spring Boot 애플리케이션을 운영하면서 과부하나 지나친 요청�
 - Apache JMeter 5.6.3
 - Prometheus 2.30.3
 - Grafana
-
-## 🏗 설계
-
-### 시스템 아키텍처
-1. Spring Boot 애플리케이션: 성능 테스트 대상
-2. JMeter: 부하 테스트 도구
-3. Prometheus: 메트릭 수집 및 저장
-4. Grafana: 메트릭 시각화 및 대시보드
+ 메트릭 시각화 및 대시보드
 
 ### 테스트 시나리오
 - 동시 사용자 수 증가에 따른 응답 시간 측정
