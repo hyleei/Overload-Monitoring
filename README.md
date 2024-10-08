@@ -28,8 +28,7 @@ Spring Boot 애플리케이션을 운영하면서 과부하나 지나친 요청�
 - Spring Boot 3.3.4
 - Apache JMeter 5.6.3
 - Prometheus 2.30.3
-- Grafana
- 메트릭 시각화 및 대시보드
+- Grafana 11.2.2
 
 ### 테스트 시나리오
 - 동시 사용자 수 증가에 따른 응답 시간 측정
